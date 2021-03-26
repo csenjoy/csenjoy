@@ -1,0 +1,5 @@
+#ifndef COMMON_CONNECTION_H
+#define COMMON_CONNECTION_H
+
+
+#endif
